@@ -1,8 +1,12 @@
 Project Name: Stellar Payment Gateway
+
 About Me
 Name: FEYZANUR
+
 Background: Blockchain Developer
+
 Interests: Decentralized Finance, Smart Contracts, and Cryptocurrency Integration
+
 Skills: Rust, Stellar SDK, Blockchain Development, Smart Contracts, Web3
 
 Project Details
