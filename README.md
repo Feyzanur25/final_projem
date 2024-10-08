@@ -10,9 +10,11 @@ Interests: Decentralized Finance, Smart Contracts, and Cryptocurrency Integratio
 Skills: Rust, Stellar SDK, Blockchain Development, Smart Contracts, Web3
 
 #Project Details
+
 This project is a decentralized payment gateway built on the Stellar blockchain. It allows users to securely and efficiently send payments using Stellar's native assets. By leveraging the Stellar network, we aim to provide faster, cheaper, and more reliable cross-border payments. The system includes payment transactions, memos, and error-handling mechanisms for a seamless user experience.
 
 #Vision
+
 The vision of this project is to revolutionize global payments, making cross-border transactions as easy as sending a message. By utilizing Stellar’s secure and scalable infrastructure, the project aims to create a platform that enables users to manage and transfer funds with low transaction fees and instant processing times. Our goal is to bridge the gap between traditional finance and blockchain technology, driving financial inclusion.
 
 #Development Plan
