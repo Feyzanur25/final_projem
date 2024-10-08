@@ -3,11 +3,11 @@
 #About Me
 Name: FEYZANUR
 
-#Background: Blockchain Developer
+Background: Blockchain Developer
 
-#Interests: Decentralized Finance, Smart Contracts, and Cryptocurrency Integration
+Interests: Decentralized Finance, Smart Contracts, and Cryptocurrency Integration
 
-#Skills: Rust, Stellar SDK, Blockchain Development, Smart Contracts, Web3
+Skills: Rust, Stellar SDK, Blockchain Development, Smart Contracts, Web3
 
 #Project Details
 This project is a decentralized payment gateway built on the Stellar blockchain. It allows users to securely and efficiently send payments using Stellar's native assets. By leveraging the Stellar network, we aim to provide faster, cheaper, and more reliable cross-border payments. The system includes payment transactions, memos, and error-handling mechanisms for a seamless user experience.
